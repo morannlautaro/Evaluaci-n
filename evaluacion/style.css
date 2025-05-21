@@ -1,0 +1,52 @@
+a{
+    color: red;
+    font-size: 25px;
+    margin-left: 10%;
+    margin-top: 15px;
+}
+nav{
+    display: flex;
+    font-size: large;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.titulo{
+    margin-right: 70%;
+
+}
+
+article{
+    width: 350px;
+    height: 450px;
+    border: 1px solid black;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    background-color: white;
+
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+
+}
+.article2{
+    width: 350px;
+    height: 450px;
+    border: 1px solid black;
+    justify-content: 70%;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    background-color: white;
+
+}
+body{
+    background-color: aqua;
+}
